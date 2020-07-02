@@ -1,0 +1,15 @@
+C:\Users\GabrielFerreira\Documents\repos\gpp\bin\Debug\netcoreapp3.1\gpp.exe
+C:\Users\GabrielFerreira\Documents\repos\gpp\bin\Debug\netcoreapp3.1\gpp.deps.json
+C:\Users\GabrielFerreira\Documents\repos\gpp\bin\Debug\netcoreapp3.1\gpp.runtimeconfig.json
+C:\Users\GabrielFerreira\Documents\repos\gpp\bin\Debug\netcoreapp3.1\gpp.runtimeconfig.dev.json
+C:\Users\GabrielFerreira\Documents\repos\gpp\bin\Debug\netcoreapp3.1\gpp.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\bin\Debug\netcoreapp3.1\gpp.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\obj\Debug\netcoreapp3.1\gpp.csprojAssemblyReference.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\obj\Debug\netcoreapp3.1\gpp.AssemblyInfoInputs.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\obj\Debug\netcoreapp3.1\gpp.AssemblyInfo.cs
+C:\Users\GabrielFerreira\Documents\repos\gpp\obj\Debug\netcoreapp3.1\gpp.csproj.CoreCompileInputs.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\obj\Debug\netcoreapp3.1\gpp.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\obj\Debug\netcoreapp3.1\gpp.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\obj\Debug\netcoreapp3.1\gpp.genruntimeconfig.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\obj\Debug\netcoreapp3.1\gpp.csproj.CopyComplete

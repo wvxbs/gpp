@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Js5aw616W4bdzN4OQA5TiyMCUfxqV+66Inz/OH/O3ekfUCAl3T1vp77s+1LA9hgbsLzikFG1huL207jRrLCzaw==",
+  "dgSpecHash": "WqCUOrmLz/PiWOfsdnQp3tl2OjVjLRczFRXEdmyno5Tg3Qp3w8R6lCZtrML0f8gk8xakMJOfZmEYjrB8Xapc0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\GabrielFerreira\\Documents\\repos\\gpp\\gpp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\GabrielFerreira\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
