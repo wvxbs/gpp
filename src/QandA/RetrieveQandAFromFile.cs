@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace gpp.src
+namespace gpp.src.qanda
 {
     class RetrieveQandAFromFile
     {       
@@ -12,9 +12,9 @@ namespace gpp.src
         public RetrieveQandAFromFile (string _Path)
         {
             Path = _Path;
-            ReadLines();
+            ReadFileLines();
         }
-        private void ReadLines()
+        private void ReadFileLines()
         {
            RawFileData.AddRange(File.ReadAllLines(Path));
         } 
