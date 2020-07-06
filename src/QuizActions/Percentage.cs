@@ -4,7 +4,7 @@ using gpp.src.qanda;
 
 namespace gpp.src.quizactions
 {
-    class HasWon
+    class Percentage
     {       
         public int CalculatePercentage(List<string> CorrectAnswers,int QuantityOfQuestions)
         {

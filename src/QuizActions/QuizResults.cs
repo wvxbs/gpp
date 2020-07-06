@@ -21,7 +21,7 @@ namespace gpp.src.quizactions
             return $"Porcentagem de acertos foi:{Percentage}%\n\n";
         }
 
-        public string DisplayQuantityOfErrors()
+        public string DisplayNumberOfErrors()
         {
 
             int Val = 0;
@@ -33,12 +33,12 @@ namespace gpp.src.quizactions
             return $"Quantidade de erros: {Val}";
         }
 
-        public string DisplayQuantityOfCorrectAnswers()
+        public string DisplayNumberOfCorrectAnswers()
         {
             return $"Quantidade de acertos: {NumberOfCorrectAnswers}";   
         }
 
-        public string DisplayQuantityOfQuestions()
+        public string DisplayNumberOfQuestions()
         {
             return $"\nQuantidade de questões: {NumberOfQuestions}";
         }

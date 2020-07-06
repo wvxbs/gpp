@@ -29,14 +29,14 @@ namespace gpp
                 Quiz Quiz = new Quiz(Questions, Answers, RightAnswers);
                 var CorrectAnswers = Quiz.GetCorrectAnswers();
 
-                HasWon HasWon = new HasWon();
-                int Percentage = HasWon.CalculatePercentage(CorrectAnswers, NumberOfQuestions);
+                Percentage Percentage = new Percentage();
+                int _Percentage = Percentage.CalculatePercentage(CorrectAnswers, NumberOfQuestions);
 
-                QuizResults QuizResults = new QuizResults(Percentage, CorrectAnswers.Count, NumberOfQuestions);
+                QuizResults QuizResults = new QuizResults(_Percentage, CorrectAnswers.Count, NumberOfQuestions);
                 
-                Console.WriteLine(QuizResults.DisplayQuantityOfQuestions());
-                Console.WriteLine(QuizResults.DisplayQuantityOfCorrectAnswers());
-                Console.WriteLine(QuizResults.DisplayQuantityOfErrors());
+                Console.WriteLine(QuizResults.DisplayNumberOfQuestions());
+                Console.WriteLine(QuizResults.DisplayNumberOfCorrectAnswers());
+                Console.WriteLine(QuizResults.DisplayNumberOfErrors());
                 Console.WriteLine(QuizResults.DisplayPercentage());
                 Console.ReadLine();
             }
