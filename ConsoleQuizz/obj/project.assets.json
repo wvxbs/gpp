@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "QuizzDll/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/QuizzDll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuizzDll.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "QuizzDll/1.0.0": {
+      "type": "project",
+      "path": "../QuizzDll/QuizzDll.csproj",
+      "msbuildProject": "../QuizzDll/QuizzDll.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "QuizzDll >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\GabrielFerreira\\.nuget\\packages\\": {}
@@ -33,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\GabrielFerreira\\Documents\\repos\\gpp\\QuizzDll\\QuizzDll.csproj": {
+              "projectPath": "C:\\Users\\GabrielFerreira\\Documents\\repos\\gpp\\QuizzDll\\QuizzDll.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

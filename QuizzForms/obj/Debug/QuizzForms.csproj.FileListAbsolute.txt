@@ -1,0 +1,9 @@
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\bin\Debug\QuizzForms.exe.config
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\bin\Debug\QuizzForms.exe
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\bin\Debug\QuizzForms.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.csprojAssemblyReference.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.Properties.Resources.resources
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.csproj.GenerateResource.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.csproj.CoreCompileInputs.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.exe
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.pdb

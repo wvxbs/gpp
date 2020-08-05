@@ -8,21 +8,20 @@ namespace gpp
 {
     class Program
     {   
- 
-        static LoadFilePathFromConfigurationFile ConfigurationFileData = new LoadFilePathFromConfigurationFile();
-        static string QuestionsFilePath = ConfigurationFileData.GetFilePath();
-
-        static RetrieveQandAFromFile RetrieveData = new RetrieveQandAFromFile(QuestionsFilePath);
-        static List<string> RawFileData = RetrieveData.GetRawFileData();
-
-        static ProcessQuestions Questions = new ProcessQuestions(RawFileData);
-        static ProcessAnswers Answers = new ProcessAnswers(RawFileData);
-        static ProcessRightAnswer RightAnswers = new ProcessRightAnswer(RawFileData);
-
 
         static void Main(string[] args)
         {
-            while(true)
+            LoadFilePathFromConfigurationFile ConfigurationFileData = new LoadFilePathFromConfigurationFile();
+            string QuestionsFilePath = ConfigurationFileData.GetFilePath();
+
+            RetrieveQandAFromFile RetrieveData = new RetrieveQandAFromFile(QuestionsFilePath);
+            List<string> RawFileData = RetrieveData.GetRawFileData();
+
+            ProcessQuestions Questions = new ProcessQuestions(RawFileData);
+            ProcessAnswers Answers = new ProcessAnswers(RawFileData);
+            ProcessRightAnswer RightAnswers = new ProcessRightAnswer(RawFileData);
+
+            while (true)
             {
                 int NumberOfQuestions = Questions.GetQuestions().Count;
 

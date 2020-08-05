@@ -1,0 +1,6 @@
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzDll\obj\Debug\QuizzDll.csproj.CoreCompileInputs.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzDll\bin\Debug\QuizzDll.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzDll\bin\Debug\QuizzDll.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzDll\obj\Debug\QuizzDll.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzDll\obj\Debug\QuizzDll.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzDll\obj\Debug\QuizzDll.csprojAssemblyReference.cache

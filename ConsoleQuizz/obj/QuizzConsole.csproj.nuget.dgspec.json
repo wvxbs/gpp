@@ -27,7 +27,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\GabrielFerreira\\Documents\\repos\\gpp\\QuizzDll\\QuizzDll.csproj": {
+                "projectPath": "C:\\Users\\GabrielFerreira\\Documents\\repos\\gpp\\QuizzDll\\QuizzDll.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -55,6 +59,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\GabrielFerreira\\Documents\\repos\\gpp\\QuizzDll\\QuizzDll.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GabrielFerreira\\Documents\\repos\\gpp\\QuizzDll\\QuizzDll.csproj",
+        "projectName": "QuizzDll",
+        "projectPath": "C:\\Users\\GabrielFerreira\\Documents\\repos\\gpp\\QuizzDll\\QuizzDll.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
