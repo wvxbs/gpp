@@ -1,0 +1,16 @@
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\obj\Debug\netcoreapp3.1\QuizzApiConsole.csprojAssemblyReference.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\obj\Debug\netcoreapp3.1\QuizzApiConsole.AssemblyInfoInputs.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\obj\Debug\netcoreapp3.1\QuizzApiConsole.AssemblyInfo.cs
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\obj\Debug\netcoreapp3.1\QuizzApiConsole.csproj.CoreCompileInputs.cache
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\bin\Debug\netcoreapp3.1\QuizzApiConsole.exe
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\bin\Debug\netcoreapp3.1\QuizzApiConsole.deps.json
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\bin\Debug\netcoreapp3.1\QuizzApiConsole.runtimeconfig.json
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\bin\Debug\netcoreapp3.1\QuizzApiConsole.runtimeconfig.dev.json
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\bin\Debug\netcoreapp3.1\QuizzApiConsole.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\bin\Debug\netcoreapp3.1\QuizzApiConsole.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\bin\Debug\netcoreapp3.1\QuizzDll.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\bin\Debug\netcoreapp3.1\QuizzDll.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\obj\Debug\netcoreapp3.1\QuizzApiConsole.csproj.CopyComplete
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\obj\Debug\netcoreapp3.1\QuizzApiConsole.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\obj\Debug\netcoreapp3.1\QuizzApiConsole.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzApiConsole\obj\Debug\netcoreapp3.1\QuizzApiConsole.genruntimeconfig.cache

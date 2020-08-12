@@ -16,6 +16,11 @@ namespace gpp.src.quizactions
             NumberOfQuestions = _NumberOfQuestions;
         }
 
+        public int DisplayPercentageAsInt()
+        {
+            return Percentage;
+        }
+
         public string DisplayPercentage()
         {
             return $"Porcentagem de acertos foi:{Percentage}%\n\n";

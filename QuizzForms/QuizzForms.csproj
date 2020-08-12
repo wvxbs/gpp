@@ -46,14 +46,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="src\EndQuizz.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="src\EndQuizz.Designer.cs">
+      <DependentUpon>EndQuizz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Quizz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Quizz.Designer.cs">
+      <DependentUpon>Quizz.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\RunQuizz.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -63,6 +70,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="src\EndQuizz.resx">
+      <DependentUpon>EndQuizz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Quizz.resx">
+      <DependentUpon>Quizz.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,6 +88,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuizzDll\QuizzDll.csproj">
+      <Project>{f76c9ecc-5edb-4514-8aff-eb396543ab12}</Project>
+      <Name>QuizzDll</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,5 +1,7 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using gpp.src.qanda;
 
 namespace gpp.src.quizactions
@@ -31,6 +33,11 @@ namespace gpp.src.quizactions
             {
                 return BreakArrayPositionContentToMultipleLines(AnswerArray[i]);
             }
+        }
+
+        public List<string> GetAnswerList()
+        {
+            return Answers;
         }
 
         private string GetRightAnswerForEspecificQuestion(int i)

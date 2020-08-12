@@ -7,3 +7,8 @@ C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.csp
 C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.csproj.CoreCompileInputs.cache
 C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.exe
 C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.Quizz.resources
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\bin\Debug\QuizzDll.dll
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\bin\Debug\QuizzDll.pdb
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.csproj.CopyComplete
+C:\Users\GabrielFerreira\Documents\repos\gpp\QuizzForms\obj\Debug\QuizzForms.EndQuizz.resources
