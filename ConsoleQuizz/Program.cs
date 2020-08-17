@@ -39,7 +39,7 @@ namespace ConsoleQuizz
             }
         }
 
-        static void PrintQuiz()
+        static void PrintQuiz() 
         {
             string[] QuestionArray = Quiz.Questions.ToArray();
             string Input = "";

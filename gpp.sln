@@ -7,13 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizzConsole", "ConsoleQuiz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzForms", "QuizzForms\QuizzForms.csproj", "{401D430F-A74B-44AC-BD99-D238D4868D58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzWeb", "QuizzWeb\QuizzWeb.csproj", "{A64A5781-91F6-4D44-A0C6-1285E38AE3A9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzDll", "QuizzDll\QuizzDll.csproj", "{F76C9ECC-5EDB-4514-8AFF-EB396543AB12}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizzApi", "QuizzApi\QuizzApi.csproj", "{233E9D89-FEAA-4D47-85A6-84CA1FF5C9E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizzApiConsole", "QuizzApiConsole\QuizzApiConsole.csproj", "{9F7C50E1-61BD-4611-84DB-26937C7EAD93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzApiConsole", "QuizzApiConsole\QuizzApiConsole.csproj", "{9F7C50E1-61BD-4611-84DB-26937C7EAD93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzApi", "QuizzApi\QuizzApi.csproj", "{92EEDAA8-9A6E-4CE7-9E9A-75C042238A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzMVC", "QuizzMVC\QuizzMVC.csproj", "{03B94844-1DA6-4698-B106-BB7CA4192841}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,22 +29,22 @@ Global
 		{401D430F-A74B-44AC-BD99-D238D4868D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{401D430F-A74B-44AC-BD99-D238D4868D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{401D430F-A74B-44AC-BD99-D238D4868D58}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A64A5781-91F6-4D44-A0C6-1285E38AE3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A64A5781-91F6-4D44-A0C6-1285E38AE3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A64A5781-91F6-4D44-A0C6-1285E38AE3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A64A5781-91F6-4D44-A0C6-1285E38AE3A9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F76C9ECC-5EDB-4514-8AFF-EB396543AB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F76C9ECC-5EDB-4514-8AFF-EB396543AB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F76C9ECC-5EDB-4514-8AFF-EB396543AB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F76C9ECC-5EDB-4514-8AFF-EB396543AB12}.Release|Any CPU.Build.0 = Release|Any CPU
-		{233E9D89-FEAA-4D47-85A6-84CA1FF5C9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{233E9D89-FEAA-4D47-85A6-84CA1FF5C9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{233E9D89-FEAA-4D47-85A6-84CA1FF5C9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{233E9D89-FEAA-4D47-85A6-84CA1FF5C9E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9F7C50E1-61BD-4611-84DB-26937C7EAD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9F7C50E1-61BD-4611-84DB-26937C7EAD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F7C50E1-61BD-4611-84DB-26937C7EAD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F7C50E1-61BD-4611-84DB-26937C7EAD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EEDAA8-9A6E-4CE7-9E9A-75C042238A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EEDAA8-9A6E-4CE7-9E9A-75C042238A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EEDAA8-9A6E-4CE7-9E9A-75C042238A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EEDAA8-9A6E-4CE7-9E9A-75C042238A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B94844-1DA6-4698-B106-BB7CA4192841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B94844-1DA6-4698-B106-BB7CA4192841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B94844-1DA6-4698-B106-BB7CA4192841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B94844-1DA6-4698-B106-BB7CA4192841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
